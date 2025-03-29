@@ -1,11 +1,11 @@
-# KitiK
-KitiK est un petit programme de traitement d'image.
+# AIVO
+Un projet scolaire par groupe de traitement d'image.
 
 ## Origine
-KitiK est issu d'un projet scolaire par groupe sur la matière intitulé "**_Analyse d'Image et Vision par Ordinateur_**".
+AIVO signifie "**_Analyse d'Image et Vision par Ordinateur_**".
 
 ## Langage utilisée
-KitiK est dévelloppé avec le langage **Python**.
+AIVO est dévelloppé avec le langage **Python**.
 
 ## Auteurs
 Comme ce projet est un travail de groupe vous pouvez trouvez les noms de tous les contributeurs dans [ce fichier](CONTRIBUTORS.txt).

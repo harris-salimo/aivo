@@ -1,8 +1,5 @@
 # AIVO
-Un projet scolaire par groupe de traitement d'image.
-
-## Origine
-AIVO signifie "**_Analyse d'Image et Vision par Ordinateur_**".
+AIVO signifie **_"Analyse d'Image et Vision par Ordinateur"_** est un projet (application de traitement d'image) scolaire réalisé par groupe.
 
 ## Langage utilisée
 AIVO est dévelloppé avec le langage **Python**.
